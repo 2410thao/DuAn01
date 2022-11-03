@@ -9,5 +9,7 @@ package com.poly.model;
  * @author WINDOWS
  */
 public class Phuong {
-    
+    public static void main(String[] args) {
+        System.out.println("hello ");
+    }
 }
